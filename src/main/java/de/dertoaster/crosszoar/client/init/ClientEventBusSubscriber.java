@@ -1,7 +1,7 @@
 package de.dertoaster.crosszoar.client.init;
 
 import de.dertoaster.crosszoar.CrosszoarMod;
-import de.dertoaster.crosszoar.client.init.renderer.entity.RenderProjectileBolt;
+import de.dertoaster.crosszoar.client.renderer.entity.RenderProjectileBolt;
 import de.dertoaster.crosszoar.init.ModEntityTypes;
 import net.minecraft.client.renderer.entity.EntityRenderers;
 import net.minecraftforge.api.distmarker.Dist;

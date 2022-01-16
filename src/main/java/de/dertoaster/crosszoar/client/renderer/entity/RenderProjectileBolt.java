@@ -1,4 +1,4 @@
-package de.dertoaster.crosszoar.client.init.renderer.entity;
+package de.dertoaster.crosszoar.client.renderer.entity;
 
 import de.dertoaster.crosszoar.CrosszoarMod;
 import de.dertoaster.crosszoar.entity.projectile.ProjectileTortoiseBolt;
