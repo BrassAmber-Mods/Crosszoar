@@ -1,0 +1,11 @@
+{
+    "item.crosszoar.bolt_tortoise": "Tortoise Bolt",
+	
+	"item.crosszoar.crossbow_tortoise": "Tortoise Ballista",
+	
+	"item.crosszoar.tooltip.hold_shift": "\u00A79Hold \u00A7f[\u00A7eSHIFT\u00A7f]\u00A79 to see more",
+	"item.crosszoar.boltdamagetooltip": "\u00A79Bolt Base Damage: %d",
+	
+	"item.crosszoar.bolt_tortoise.tooltip": "\u00A79A very heavy and strong bolt made out of a tortoise's shell and netherite"
+	
+}   
