@@ -1,0 +1,6 @@
+{
+    "parent": "crosszoar:item/crossbow_tortoise",
+    "textures": {
+        "layer0": "crosszoar:item/crossbow_tortoise_loaded_explosive"
+    }
+}
