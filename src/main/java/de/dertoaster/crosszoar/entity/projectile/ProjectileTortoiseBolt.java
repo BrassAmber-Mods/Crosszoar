@@ -48,15 +48,6 @@ public class ProjectileTortoiseBolt extends ProjectileBolt {
 	}
 	
 	@Override
-	protected void onHitEntity(EntityHitResult pResult) {
-		Entity ent = pResult.getEntity();
-		if(ent != null) {
-			ent.invulnerableTime = 0;
-		}
-		super.onHitEntity(pResult);
-	}
-	
-	@Override
 	public Packet<?> getAddEntityPacket() {
 		return NetworkHooks.getEntitySpawningPacket(this);
 	}
