@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "tortoise",
+    "pattern": [
+        "###",
+        "#X#",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "bezoar:scute_plate"
+        },
+        "X": {
+            "item": "minecraft:crossbow"
+        }
+    },
+    "result":
+    {
+        "item": "crosszoar:crossbow_tortoise",
+        "count": 1
+    }
+}
