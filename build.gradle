@@ -46,7 +46,7 @@ minecraft {
     runs {
         client {
             taskName 'runClient Crosszoar 1.18.1'
-            arg "-mixin.config=crosszoar.mixins.json"
+            //arg "-mixin.config=crosszoar.mixins.json"
             
             workingDirectory project.file('run')
 
@@ -63,7 +63,7 @@ minecraft {
 
         server {
             taskName 'runServer Crosszoar 1.18.1'
-            arg "-mixin.config=crosszoar.mixins.json"
+            //arg "-mixin.config=crosszoar.mixins.json"
 
             workingDirectory project.file('run')
 
@@ -80,7 +80,7 @@ minecraft {
 
         data {
             taskName 'runData Crosszoar 1.18.1'
-            arg "-mixin.config=crosszoar.mixins.json"
+            //arg "-mixin.config=crosszoar.mixins.json"
 
             workingDirectory project.file('run')
 
