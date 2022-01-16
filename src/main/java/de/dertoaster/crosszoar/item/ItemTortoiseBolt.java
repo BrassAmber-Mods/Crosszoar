@@ -22,4 +22,9 @@ public class ItemTortoiseBolt extends AbstractItemBolt {
 		return bolt;
 	}
 
+	@Override
+	public int getIdForItemProperties() {
+		return 999;
+	}
+
 }
