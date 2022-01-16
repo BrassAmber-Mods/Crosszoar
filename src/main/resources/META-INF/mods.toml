@@ -1,5 +1,6 @@
 modLoader="javafml" #mandatory
 license="All rights reserved"
+loaderVersion="[39,)"
 [[mods]] #mandatory
 # The modid of the mod
 modId="crosszoar" #mandatory
