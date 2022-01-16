@@ -1,0 +1,8 @@
+-tortoise ballista [fancy name]
+-crossbow surrounded by tortoise plates
+1.25x slower than netherite crossbow
+-8 plates total
+-crossbow has 4x vanilla durability [2x the durability of netherite] 2048
+
+-tortoise bolt made with 1 tortoise plate and a netherite bolt at the smithy: crafts 8 bolts
+-only works in tortoise crossbow
