@@ -174,8 +174,8 @@ jar {
             "Implementation-Title": "$modName",
             "Implementation-Version": "$modVersion",
             "Implementation-Vendor" :"DerToaster",
-            "Implementation-Timestamp": new Date().format("yyyy-MM-dd'T'HH:mm:ssZ"),
-            "MixinConfigs": "crosszoar.mixins.json"
+            "Implementation-Timestamp": new Date().format("yyyy-MM-dd'T'HH:mm:ssZ")
+            //"MixinConfigs": "crosszoar.mixins.json"
         ])
     }
 }
