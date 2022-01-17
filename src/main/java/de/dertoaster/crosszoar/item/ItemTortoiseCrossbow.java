@@ -98,7 +98,7 @@ public class ItemTortoiseCrossbow extends ItemCrossbowNetherite implements IModi
 			}
 		}
 		
-		Vec3 offset = shooter.getLookAngle().normalize().scale(0.125);
+		Vec3 offset = shooter.getLookAngle().normalize().scale(0.25);
 		offset = offset.yRot(leftSide ? 270 : 90);
 		projectileentity.setPos(projectileentity.position().add(offset));
 
