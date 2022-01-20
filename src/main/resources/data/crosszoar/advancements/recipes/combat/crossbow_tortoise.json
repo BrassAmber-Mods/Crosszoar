@@ -1,0 +1,36 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "crosszoar:crossbow_tortoise"
+    ]
+  },
+  "criteria": {
+    "has_crossbow": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:crossbow"
+          }
+        ]
+      }
+    },
+    "has_netherite": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "bezoar:tortoise_plate"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_crossbow",
+      "has_netherite"
+    ]
+  ]
+}
